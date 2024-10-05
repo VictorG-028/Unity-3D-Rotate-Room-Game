@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scripts.InteractGlobal", "Scripts.InteractGlobal.csproj", "{5ebbccb4-a873-3194-b1a9-398dd1535fd6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scripts.Camera", "Scripts.Camera.csproj", "{606b2665-aaca-1381-d0a0-c33bcddb330b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{268fc82b-a95a-715e-16b4-2f16b555065f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scripts.HandleGamePlay", "Scripts.HandleGamePlay.csproj", "{69cc2f01-59a2-1b9b-ac87-5a29fc8e6ac9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ebbccb4-a873-3194-b1a9-398dd1535fd6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ebbccb4-a873-3194-b1a9-398dd1535fd6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606b2665-aaca-1381-d0a0-c33bcddb330b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606b2665-aaca-1381-d0a0-c33bcddb330b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268fc82b-a95a-715e-16b4-2f16b555065f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268fc82b-a95a-715e-16b4-2f16b555065f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69cc2f01-59a2-1b9b-ac87-5a29fc8e6ac9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69cc2f01-59a2-1b9b-ac87-5a29fc8e6ac9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
